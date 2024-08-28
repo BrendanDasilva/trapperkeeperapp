@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://BrendanDasilva.github.io/trapperkeeperapp",
+  "homepage": "https://brendandasilva.github.io/trapperkeeperapp",
   "scripts": {
     "dev": "vite",
     "build": "vite build",

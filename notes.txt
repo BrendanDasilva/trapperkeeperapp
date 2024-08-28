@@ -1,0 +1,23 @@
+Site
+  - eventually would like to introduce users (registration, login)
+  - which means database set up is needed to keep track of users activity across all the different apps
+
+
+Notes App
+  - add an edit button to displayed notes
+
+Weather App
+  - 
+
+Pomo
+  - need sounds for when the timer is done
+  - footer is not displaying right so for not its not included
+
+task scheduler
+- 
+
+habit tracker
+- 
+
+time tracker
+- 
